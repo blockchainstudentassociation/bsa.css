@@ -1,6 +1,6 @@
 {
   "name": "bsa.css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The EPFL Blockchain Student Association official styling, in CSS",
   "main": "index.css",
   "repository": "https://github.com/blockchainstudentassociation/bsa.css",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "build": "sass *.sass index.css"
+    "build": "sass bsa.sass bsa.css"
   },
   "devDependencies": {
     "sass": "^1.14.0"
