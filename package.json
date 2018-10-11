@@ -1,6 +1,6 @@
 {
   "name": "bsa.css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The EPFL Blockchain Student Association official styling, in CSS",
   "main": "index.css",
   "repository": "https://github.com/bsaepfl/bsa.css",
