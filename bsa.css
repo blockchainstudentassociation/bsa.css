@@ -25,6 +25,10 @@ a {
   color: #3fa9f5;
 }
 
+.has-text-orange {
+  color: #f15a24;
+}
+
 .is-green {
   background: #39b54a;
 }
@@ -39,6 +43,10 @@ a {
 
 .is-blue {
   background: #3fa9f5;
+}
+
+.is-orange {
+  background: #f15a24;
 }
 
 /*# sourceMappingURL=bsa.css.map */
